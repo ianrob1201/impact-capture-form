@@ -49,6 +49,7 @@
                 padding-bottom: 10%;
             }
             .white-text{
+                font-family: 'Share Tech Mono';
                 color: #FFFFFF;
             }
             .rs-heading{
@@ -141,8 +142,8 @@
                     <hr class="thick">
 
                     <blockquote>
-                        <span class="rs-text">I <a href="https://www.linkedin.com/in/nikhilagarwal2/">design airplanes</a> at Boeing in Seattle, WA</span> <br>
-                        <span class="wd-text">& I <a href="https://bloggercasts.com">create websites</a> at Bloggercasts from my couch</span>
+                        <span class="rs-text">I <a href="https://www.linkedin.com/in/nikhilagarwal2/">design airplanes</a> at Boeing</span> <br>
+                        <span class="wd-text">& I create websites at <a href="https://bloggercasts.com">Bloggercasts</a></span>
                     </blockquote>
                 </div>
             </div>
