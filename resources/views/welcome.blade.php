@@ -140,90 +140,90 @@
                 </div>
             </div>
 
-            <div class="row" id="go-down">
-                <div class="col-lg-12">
-                    <p class="white-text"><small>See how</small></p>
-                    <a id="down" href="#what"><i class="fa fa-chevron-down white-text" aria-hidden="true"></i></a>
-                </div>
-            </div>
+            {{--<div class="row" id="go-down">--}}
+                {{--<div class="col-lg-12">--}}
+                    {{--<p class="white-text"><small>See how</small></p>--}}
+                    {{--<a id="down" href="#what"><i class="fa fa-chevron-down white-text" aria-hidden="true"></i></a>--}}
+                {{--</div>--}}
+            {{--</div>--}}
 
         </div>
     </div>
 
-    <div class="container" id="what">
-        <div class="row">
+    {{--<div class="container" id="what">--}}
+        {{--<div class="row">--}}
 
-            <div class="col-sm-3 col-md-offset-2 col-md-4">
-                <h2 class="section-heading">What I do</h2>
-            </div>
+            {{--<div class="col-sm-3 col-md-offset-2 col-md-4">--}}
+                {{--<h2 class="section-heading">What I do</h2>--}}
+            {{--</div>--}}
 
-            <div class="col-sm-9 col-md-4">
+            {{--<div class="col-sm-9 col-md-4">--}}
 
-                <p class="big-text">
-                    Help technophobic entrepreneurs amplify their impact online
-                </p>
+                {{--<p class="big-text">--}}
+                    {{--Help technophobic entrepreneurs amplify their impact online--}}
+                {{--</p>--}}
 
-                <p class="m-m-t m-m-b tech-text">
-                     I can be your CTO or manage the details.
-                </p>
+                {{--<p class="m-m-t m-m-b tech-text">--}}
+                     {{--I can be your CTO or manage the details.--}}
+                {{--</p>--}}
 
-                <p class="big-text">
-                    The CTO Approach
-                </p>
-                <p>
-                    When you need a partner who dives deep to understand your business.
-                </p>
+                {{--<p class="big-text">--}}
+                    {{--The CTO Approach--}}
+                {{--</p>--}}
+                {{--<p>--}}
+                    {{--When you need a partner who dives deep to understand your business.--}}
+                {{--</p>--}}
 
-                <ul class="m-m-b">
-                    <li>Manage all aspects of your online business</li>
-                    <li>Web Platform Selection</li>
-                    <li>Design & Development</li>
-                    <li>Operations Training</li>
-                    <li>Digital Marketing</li>
-                </ul>
+                {{--<ul class="m-m-b">--}}
+                    {{--<li>Manage all aspects of your online business</li>--}}
+                    {{--<li>Web Platform Selection</li>--}}
+                    {{--<li>Design & Development</li>--}}
+                    {{--<li>Operations Training</li>--}}
+                    {{--<li>Digital Marketing</li>--}}
+                {{--</ul>--}}
 
-                <p class="big-text m-m-t">
-                    Or maybe just like your favorite employee?
-                </p>
-                <p>
-                    When you need that reliable someone who gets it done.
-                </p>
-                <ul>
-                    <li>Small Business Sites</li>
-                    <li>E-commerce Sites</li>
-                    <li>Membership Sites</li>
-                    <li>Facebook Ads</li>
-                    <li>Search Ads</li>
-                    <li>Display Ads</li>
-                </ul>
+                {{--<p class="big-text m-m-t">--}}
+                    {{--Or maybe just like your favorite employee?--}}
+                {{--</p>--}}
+                {{--<p>--}}
+                    {{--When you need that reliable someone who gets it done.--}}
+                {{--</p>--}}
+                {{--<ul>--}}
+                    {{--<li>Small Business Sites</li>--}}
+                    {{--<li>E-commerce Sites</li>--}}
+                    {{--<li>Membership Sites</li>--}}
+                    {{--<li>Facebook Ads</li>--}}
+                    {{--<li>Search Ads</li>--}}
+                    {{--<li>Display Ads</li>--}}
+                {{--</ul>--}}
 
-                <p class="big-text m-m-b m-m-t">¯\_(ツ)_/¯</p>
+                {{--<p class="big-text m-m-b m-m-t">¯\_(ツ)_/¯</p>--}}
 
-                <ul>
-                    <li>Not sure what you need? I can help with that too</li>
-                </ul>
+                {{--<ul>--}}
+                    {{--<li>Not sure what you need? I can help with that too</li>--}}
+                {{--</ul>--}}
 
-            </div>
+            {{--</div>--}}
 
-        </div>
-    </div>
+        {{--</div>--}}
+    {{--</div>--}}
 
-    <div class="container" id="about">
-        <div class="row">
+    {{--<div class="container" id="about">--}}
+        {{--<div class="row">--}}
 
-            <div class="col-sm-3 col-md-offset-2 col-md-4">
-                <h2 class="section-heading">About</h2>
-            </div>
+            {{--<div class="col-sm-3 col-md-offset-2 col-md-4">--}}
+                {{--<h2 class="section-heading">About</h2>--}}
+            {{--</div>--}}
 
-            <div class="col-sm-9 col-md-4">
+            {{--<div class="col-sm-9 col-md-4">--}}
 
-                <p class="big-text">
-                    Tl;dr
-                </p>
+                {{--<p class="big-text">--}}
+                    {{--Tl;dr--}}
+                {{--</p>--}}
 
-                <p class="m-m-t m-m-b tech-text">
-                    Aerospace engineer, web developer, data-miner, digital marketer, indian, always learning, squash player, outdoors lover.
-                </p>
+                {{--<p class="m-m-t m-m-b tech-text">--}}
+                    {{--Aerospace engineer, web developer, data-miner, digital marketer, indian, always learning, squash player, outdoors lover.--}}
+                {{--</p>--}}
 
                 {{--<p class="big-text">--}}
                     {{--Story--}}
@@ -248,22 +248,22 @@
                 {{--<p class="tech-text">--}}
                     {{--At Boeing, I design the next generation of airplanes. Right now, I am working on the 777X and I won't say more than that :).--}}
                 {{--</p>--}}
-            </div>
+            {{--</div>--}}
 
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
+            {{--<div class="container">--}}
+                {{--<div class="row">--}}
+                    {{--<div class="col-md-12">--}}
 
-                        <p class="big-text">
-                            This remainder of this website is under construction! The updated site will be ready by September 10, 2017. Until then, reach out to me via <a href="mailto:nikhil.agarwal@live.com">email</a>  if I can be of help.
-                        </p>
+                        {{--<p class="big-text">--}}
+                            {{--This remainder of this website is under construction! The updated site will be ready by September 10, 2017. Until then, reach out to me via <a href="mailto:nikhil.agarwal@live.com">email</a>  if I can be of help.--}}
+                        {{--</p>--}}
 
-                    </div>
-                </div>
-            </div>
+                    {{--</div>--}}
+                {{--</div>--}}
+            {{--</div>--}}
 
-        </div>
-    </div>
+        {{--</div>--}}
+    {{--</div>--}}
 
 
     </body>
