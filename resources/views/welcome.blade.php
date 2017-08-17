@@ -61,6 +61,13 @@
                 color: #FD5AE8;
                 font-family: 'Share Tech Mono';
             }
+
+            a, a:hover{
+                color: #222222;
+                font-family: 'Share Tech Mono';
+                background-color: #29FCA5;
+            }
+
             .wd-text{
                 color: #5AE8FD;
                 font-family: 'Share Tech Mono';
@@ -84,7 +91,7 @@
                 font-family: 'Roboto', sans-serif;
             }
 
-            .dark-background{
+            .dark-background, body{
                 background-color: #222222;
             }
 
@@ -134,8 +141,8 @@
                     <hr class="thick">
 
                     <blockquote>
-                        <span class="rs-text">I design airplanes at Boeing in Seattle, WA</span> <br>
-                        <span class="wd-text">& I create websites at Bloggercasts from my couch</span>
+                        <span class="rs-text">I <a href="https://www.linkedin.com/in/nikhilagarwal2/">design airplanes</a> at Boeing in Seattle, WA</span> <br>
+                        <span class="wd-text">& I <a href="https://bloggercasts.com">create websites</a> at Bloggercasts from my couch</span>
                     </blockquote>
                 </div>
             </div>
